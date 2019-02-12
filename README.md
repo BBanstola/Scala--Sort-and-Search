@@ -1,0 +1,1 @@
+Simple ways to see how various searches are done ingit Scala. Did this while I was learning Scala.
